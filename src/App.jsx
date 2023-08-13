@@ -1,9 +1,9 @@
-import Scene from "./components/Scene/Scene"
+import Experience from "./components/Experience/Experience"
 function App() {
   return (
     <>
-      <div className="scene">
-        <Scene />
+      <div className="experience">
+        <Experience />
       </div>
     </>
   )
